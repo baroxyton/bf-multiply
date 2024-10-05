@@ -6,6 +6,9 @@
 
 [Print welcome message]
 
+
+[----------------------PRINT FIRST MESSAGE---------------------------------]
+
 [Enter first digit to multiply:]
 
 >>>>>> [6]
@@ -200,10 +203,15 @@
 .
 [-]
 
-[\n]
-++++++++++
-.
-[-]
+
+[----------------------GET FIRST INPUT DIGIT---------------------------------]
+<<<<
+,
+<++++++++ convert ascii digit to number
+[->------<]
+>>>>>
+[----------------------WRITE SECOND MESSAGE---------------------------------]
+
 
 [Enter second digit to multiply: ]
 [E]
@@ -398,7 +406,8 @@
 >
 .
 [-]
-[\n]
-++++++++++
-.
-[-]
+[----------------------GET FIRST INPUT DIGIT---------------------------------]
+<<<
+,
+<<++++++++ convert ascii digit to number
+[->>------<<]
